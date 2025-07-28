@@ -1,0 +1,2 @@
+# trustwallet-assets
+trustwallet-assets
