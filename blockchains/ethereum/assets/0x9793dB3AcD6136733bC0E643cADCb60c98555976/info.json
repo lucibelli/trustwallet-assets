@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Tether USD is a stablecoin pegged to the US Dollar. This is a wrapped version of USDT.",
+  "website": "https://tether.to",
+  "explorer": "https://etherscan.io/token/0x9793dB3AcD6136733bC0E643cADCb60c98555976",
+  "status": "active",
+  "id": "0x9793dB3AcD6136733bC0E643cADCb60c98555976"
+}
